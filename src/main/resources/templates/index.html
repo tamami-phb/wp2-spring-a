@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        
+    </head>
+    <body>
+        <h3>Selamat Datang</h3>
+        <div th:each="maha: ${mhs}">
+            <p th:text="${maha.nim}"></p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://satao.db.elephantsql.com:5432/fzxmwwps
+    username: fzxmwwps
+    password: UOgfEogE3J3qr3CdC447Gep8iQBfacZI
